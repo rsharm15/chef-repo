@@ -1,6 +1,6 @@
 [snapshots]
 name=Snapshots
-baseurl=http://<YOUR_PUBLIC_DNS>:8081/nexus/content/repositories/snapshots/
+baseurl=http://ec2-54-88-176-110.compute-1.amazonaws.com:8081/nexus/content/repositories/snapshots/
 enabled=1
 protect=0
 gpgcheck=0
